@@ -1,4 +1,4 @@
 # LACROIX-Notation
 
-_Nom:_ LACROIX
-_Prenom:_ Samuel
+__Nom:__ LACROIX
+__Prenom:__ Samuel
