@@ -4,4 +4,4 @@
 
 [France](https://github.com/SamLacroix/LACROIX-Notation/blob/master/Pays/FRANCE.md)
 
-[Suisse](https://github.com/SamLacroix/LACROIX-Notation/blob/master/Pays/SUISSE.md=
+[Suisse](https://github.com/SamLacroix/LACROIX-Notation/blob/master/Pays/SUISSE.md)
